@@ -17,3 +17,6 @@ Generates a few histograms using the seaborn library. Titanic data is pulled dow
 ![seaborn](/snips/seaborn04.PNG "seaborn_soln screenshot")
 ![seaborn](/snips/seaborn05.PNG "seaborn_soln screenshot")
 
+## dataScience/pandas_solns.py
+
+![seaborn](/snips/pandas.PNG "pandas_soln screenshot")

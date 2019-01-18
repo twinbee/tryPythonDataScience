@@ -123,6 +123,7 @@ plt.show()
 
 sns.countplot(x='sex',data=titanic)
 
+plt.show()
 
 # In[ ]:
 
